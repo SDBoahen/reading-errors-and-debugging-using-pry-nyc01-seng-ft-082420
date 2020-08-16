@@ -6,4 +6,6 @@ def
 	num + 2
 	num
 	
+	binding
+	
 end
