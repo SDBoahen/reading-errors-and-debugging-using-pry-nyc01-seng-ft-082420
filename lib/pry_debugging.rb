@@ -6,6 +6,6 @@ def
 	num + 2
 	num
 	
-	binding
+	binding.pry
 	
 end
