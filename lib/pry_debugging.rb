@@ -7,6 +7,7 @@ def
 	
 	num_sum
 	
-	binding.pry 
+	#{...}(
+	#binding.pry 
 	
 end
